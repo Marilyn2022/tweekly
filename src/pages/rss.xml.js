@@ -17,7 +17,7 @@ export const get = () =>
     title: '网盘搜罗',
     description: '搜罗迅雷、夸克、阿里网盘精选资源',
     site: 'https://daily.205066.xyz/',
-    customData: `<image><url>https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png</url></image>`,
+    customData: `<image><url>https://www.205066.xyz/favicon.ico</url></image>`,
     items: posts.map((item) => {
       const url = item.url;
       const oldTitle = url.split('/posts/')[1];
