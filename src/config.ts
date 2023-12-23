@@ -5,7 +5,7 @@ export const SITE = {
   keywords: 'Marilyn,wangpan,Blog,前端,macOS,MiaoYan,Pack,Swift',
   icon: 'https://www.205066.xyz/favicon.ico',
   pic: 'https://www.205066.xyz/favicon.ico',
-  homePage: 'https://daily.205066.xyz',
+  homePage: 'https://day.tsq360.cf',
   blogPage: 'https://www.205066.xyz/',
   twitterId: '',
   githubId: '',
