@@ -2,6 +2,7 @@
 
 > 搜罗汇总迅雷、夸克、阿里网盘精选资源，欢迎订阅，也欢迎 [推荐](htttps://day.tsq360.cf) ，期待你玩得开心~
 
+* [第 176 期 - 猫爪体验](https://day.tsq360.cf/posts/176-猫爪体验)
 * [第 175 期 - 歌手合集](https://day.tsq360.cf/posts/175-歌手合集)
 * [第 174 期 - 电视必备](https://day.tsq360.cf/posts/174-电视必备)
 * [第 173 期 - 经典永存](https://day.tsq360.cf/posts/173-经典永存)
