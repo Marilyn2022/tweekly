@@ -2,6 +2,7 @@
 
 > 搜罗汇总迅雷、夸克、阿里网盘精选资源，欢迎订阅，也欢迎 [推荐](htttps://day.tsq360.cf) ，期待你玩得开心~
 
+* [第 182 期 - 精选合集](https://day.tsq360.cf/posts/182-精选合集)
 * [第 181 期 - 黑软专辑](https://day.tsq360.cf/posts/181-黑软专辑)
 * [第 180 期 - 办公软件](https://day.tsq360.cf/posts/180-办公软件)
 * [第 179 期 - AI工具集](https://day.tsq360.cf/posts/179-AI工具集)
