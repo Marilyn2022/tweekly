@@ -2,7 +2,7 @@
 
 > 搜罗汇总迅雷、夸克、阿里网盘精选资源，欢迎订阅，也欢迎 [推荐](htttps://day.tsq360.cf) ，期待你玩得开心~
 
-* [第 184 期 - PDF内置激活版](https://day.tsq360.cf/posts/184-PDF内置激活版)
+* [第 184 期 - PDF激活](https://day.tsq360.cf/posts/184-PDF激活)
 * [第 183 期 - 数字图书](https://day.tsq360.cf/posts/183-数字图书)
 * [第 182 期 - 精选合集](https://day.tsq360.cf/posts/182-精选合集)
 * [第 181 期 - 黑软专辑](https://day.tsq360.cf/posts/181-黑软专辑)
