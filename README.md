@@ -2,6 +2,7 @@
 
 > 搜罗汇总迅雷、夸克、阿里网盘精选资源，欢迎订阅，也欢迎 [推荐](htttps://day.tsq360.cf) ，期待你玩得开心~
 
+* [第 208 期 - 春节资源](https://day.tsq360.cf/posts/208-春节资源)
 * [第 207 期 - 春节资源](https://day.tsq360.cf/posts/207-春节资源)
 * [第 206 期 - 软件大更](https://day.tsq360.cf/posts/206-软件大更)
 * [第 205 期 - 我的书库](https://day.tsq360.cf/posts/205-我的书库)
