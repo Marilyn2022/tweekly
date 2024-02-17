@@ -2,6 +2,7 @@
 
 > 搜罗汇总迅雷、夸克、阿里网盘精选资源，欢迎订阅，也欢迎 [推荐](htttps://day.tsq360.cf) ，期待你玩得开心~
 
+* [第 213 期 - 电视直播](https://day.tsq360.cf/posts/213-电视直播)
 * [第 212 期 - 中华绝学](https://day.tsq360.cf/posts/212-中华绝学)
 * [第 211 期 - 中华经典](https://day.tsq360.cf/posts/211-中华经典)
 * [第 210 期 - 车载音乐](https://day.tsq360.cf/posts/210-车载音乐)
