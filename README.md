@@ -2,6 +2,7 @@
 
 > 搜罗汇总迅雷、夸克、阿里网盘精选资源，欢迎订阅，也欢迎 [推荐](htttps://day.tsq360.cf) ，期待你玩得开心~
 
+* [第 216 期 - 电影分镜](https://day.tsq360.cf/posts/216-电影分镜)
 * [第 215 期 - AI绘画](https://day.tsq360.cf/posts/215-AI绘画)
 * [第 214 期 - 图书下载](https://day.tsq360.cf/posts/214-图书下载)
 * [第 213 期 - 电视直播](https://day.tsq360.cf/posts/213-电视直播)
