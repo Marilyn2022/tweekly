@@ -2,6 +2,7 @@
 
 > 搜罗汇总迅雷、夸克、阿里网盘精选资源，欢迎订阅，也欢迎 [推荐](htttps://day.tsq360.cf) ，期待你玩得开心~
 
+* [第 225 期 - 手工教学](https://day.tsq360.cf/posts/225-手工教学)
 * [第 224 期 - 塔罗牌典藏](https://day.tsq360.cf/posts/224-塔罗牌典藏)
 * [第 223 期 - 永乐大典](https://day.tsq360.cf/posts/223-永乐大典)
 * [第 222 期 - 美术入门](https://day.tsq360.cf/posts/222-美术入门)
