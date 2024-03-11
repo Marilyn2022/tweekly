@@ -2,6 +2,7 @@
 
 > 搜罗汇总迅雷、夸克、阿里网盘精选资源，欢迎订阅，也欢迎 [推荐](htttps://day.tsq360.cf) ，期待你玩得开心~
 
+* [第 232 期 - 电视K歌](https://day.tsq360.cf/posts/232-电视K歌)
 * [第 231 期 - 历代帝王](https://day.tsq360.cf/posts/231-历代帝王)
 * [第 230 期 - 地球编年史](https://day.tsq360.cf/posts/230-地球编年史)
 * [第 229 期 - 仿电视家](https://day.tsq360.cf/posts/229-仿电视家)
