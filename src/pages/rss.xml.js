@@ -16,7 +16,7 @@ export const get = () =>
   rss({
     title: '网盘搜罗',
     description: '搜罗迅雷、夸克、阿里网盘精选资源',
-    site: 'https://day.tsq360.cf/',
+    site: 'https://day.203511.xyz/',
     customData: `<image><url>https://www.205066.xyz/favicon.ico</url></image>`,
     items: posts.map((item) => {
       const url = item.url;
